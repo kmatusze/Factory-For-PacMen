@@ -3,7 +3,7 @@
 
 **How to Run:** Use the starter code to help you get up and running! The starter code includes the same content as the PacMen Exercise such as an images folder that contian multiple images representing a PacMan at different stages with mouths open and mouths closed. It contains an HTML File displaying the PacMan as well as a JS File that contains the JS animation code. 
 
-***What's New:** is when you click on the button " Add PacMan" new code is completed for you to check to position a new PacMan image on the DOM and add it to the "Start Game". Your bascially creating a PacMan on demand (button click) and moving these PacMen across the page. 
+**What's New:** is when you click on the button " Add PacMan" new code is completed for you to check to position a new PacMan image on the DOM and add it to the "Start Game". Your bascially creating a PacMan on demand (button click) and moving these PacMen across the page. 
 
 **Roadmap of Future Improvements:** Future improvements include additional images, increased setInterval functionality and updating the checkPageBounds direction and widths. Additionally alternative ways to provide the width of the web pages and using a value to detect if a PacMan is at the edge of the screen or not using window.innerWidth. 
 
